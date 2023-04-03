@@ -77,4 +77,4 @@ RewriteRule ^(.*)$ index.php?mod=$1 [L]
 </IfModule>
 ```
 
-#Terimakasih !
+# Terimakasih !
