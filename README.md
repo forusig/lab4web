@@ -34,7 +34,7 @@ die();
 * lalu buatlah file **header.php** **home.php** **tambah.php** **hapus.php** dan jangan lupa untuk membuat file **footer.php**
 
 # hasil 
-! [image.png](https://github.com/forusig/lab4web/blob/fcae40774dcdce0f82f9fe0e446f5f380ae36678/gambar/img3.png)
+![image.png](https://github.com/forusig/lab4web/blob/fcae40774dcdce0f82f9fe0e446f5f380ae36678/gambar/img3.png)
 
 ## Membuat Routing
 Routing digunakan untuk mempermudah akses halaman web agar SEO Friendly.
